@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PRO-C22-SA-Boilerplate_code-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-C22-Template-main"
+	}
+}
